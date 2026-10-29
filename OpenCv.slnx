@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OpenCv.vcxproj" Id="aa93ccc5-dc2a-4693-8916-6c7e083f1bd2" />
+</Solution>

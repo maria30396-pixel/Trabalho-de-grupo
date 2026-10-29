@@ -1,0 +1,2 @@
+﻿  OpenCv.cpp
+C:\Users\maria\OneDrive - Universidade da Beira Interior\Ambiente de Trabalho\Computação Multimédia\Projeto app\OpenCv\OpenCv.cpp(5,10): error C1083: Não é possível abrir arquivo incluir: 'opencv2/opencv.hpp': No such file or directory
