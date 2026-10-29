@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "OpenCv\\x64\\Release\\OpenCv.obj",
+            "outputs": [
+                "OpenCv\\x64\\Release\\OpenCv.cpp.obj.dt.module.json",
+                "OpenCv\\x64\\Release\\OpenCv.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
