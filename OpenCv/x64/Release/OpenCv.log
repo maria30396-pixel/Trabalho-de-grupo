@@ -1,1 +1,11 @@
-﻿
+﻿  OpenCv.cpp
+C:\Users\maria\OneDrive - Universidade da Beira Interior\Ambiente de Trabalho\Computação Multimédia\Projeto app\OpenCv\OpenCv.cpp(34,4): error C2664: 'void cv::subtract(cv::InputArray,cv::InputArray,cv::OutputArray,cv::InputArray,int)': não é possível converter um argumento 3 de 'cv::Size' em 'cv::OutputArray'
+      C:\Users\maria\OneDrive - Universidade da Beira Interior\Ambiente de Trabalho\Computação Multimédia\Projeto app\OpenCv\OpenCv.cpp(34,35):
+      Razão: não é possível converter de 'cv::Size' para 'const cv::_OutputArray'
+      C:\Users\maria\OneDrive - Universidade da Beira Interior\Ambiente de Trabalho\Computação Multimédia\Projeto app\OpenCv\OpenCv.cpp(34,35):
+      Nenhum operador de conversão definida pelo usuário disponível que possa realizar esta conversão, ou o operador não pode ser chamado
+      C:\Users\maria\Downloads\opencv\build\include\opencv2\core.hpp(334,19):
+      consulte a declaração de 'cv::subtract'
+      C:\Users\maria\OneDrive - Universidade da Beira Interior\Ambiente de Trabalho\Computação Multimédia\Projeto app\OpenCv\OpenCv.cpp(34,4):
+      ao tentar corresponder a lista de argumentos '(cv::Mat, cv::Mat, cv::Size)'
+  
